@@ -11,4 +11,7 @@ my works on python : )
 > wanna play this game ? 
 > [`click here`](https://repl.it/@mnk17arts/Guess-The-Secret-Number#GuessTheNumber.py)
 
+> `Simple-Calculator-GUI`!!
+>A simple calculator GUI made using tkinter(standard GUI library in python)! 
+>[`try here`](https://replit.com/@mnk17arts/Simple-Calculator-GUI)
 

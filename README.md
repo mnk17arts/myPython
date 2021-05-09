@@ -1,17 +1,17 @@
 # myPython
-my works on python : )
+### my python works 
+> **OpenCV**
+* [Face Recognition Project]()
+* [Hand Tracking Project]()
+* [Virtual Paint using Hand tracking Project]()
+* [show more...]()
 
-> `Rock Paper Scissor`!!
-> wanna play this game?
-> [`click here`](https://repl.it/@mnk17arts/Rock-Paper-Scissor#rockpaperscissor.py)
+> **tkinter**
+* [Simple Calculator](https://replit.com/@mnk17arts/Simple-Calculator-GUI)
+* [Show more...]()
 
-> `Guess the Secret Number`!! User has to guess the *secret number*, [1,100]
-> if the user guesses the number in less guesses than the previous record,
-> his score will be in *topScores* file. 
-> wanna play this game ? 
-> [`click here`](https://repl.it/@mnk17arts/Guess-The-Secret-Number#GuessTheNumber.py)
-
-> `Simple-Calculator-GUI`!!
->A simple calculator GUI made using tkinter(standard GUI library in python)! 
->[`try here`](https://replit.com/@mnk17arts/Simple-Calculator-GUI)
+> **Other Projects**
++ [Rock Paper Scissor](https://repl.it/@mnk17arts/Rock-Paper-Scissor#rockpaperscissor.py)
++ [Guess the Secret Number](https://repl.it/@mnk17arts/Guess-The-Secret-Number#GuessTheNumber.py)
++ show more...
 

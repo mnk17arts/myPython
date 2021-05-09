@@ -112,26 +112,28 @@ class handDetector():
         # tips are 4,8,12,16,20
         fingers = []
 
-        if self.lnList[self.tipIDs[0]][1] < self.lnList[self.tipIDs[4]][1]:
-            # for thumb - left hand
-            if self.lnList[self.tipIDs[0]][1] < self.lnList[self.tipIDs[0] - 1][1]:
-                fingers.append(1)
+        if len(self.lnList) != 0:
+            if self.lnList[self.tipIDs[0]][1] < self.lnList[self.tipIDs[4]][1]:
+                # for thumb - left hand
+                if self.lnList[self.tipIDs[0]][1] < self.lnList[self.tipIDs[0] - 1][1]:
+                    fingers.append(1)
+                else:
+                    fingers.append(0)
             else:
-                fingers.append(0)
-        else:
-            # for thumb - right hand
-            if self.lnList[self.tipIDs[0]][1] > self.lnList[self.tipIDs[0] - 1][1]:
-                fingers.append(1)
-            else:
-                fingers.append(0)
+                # for thumb - right hand
+                if self.lnList[self.tipIDs[0]][1] > self.lnList[self.tipIDs[0] - 1][1]:
+                    fingers.append(1)
+                else:
+                    fingers.append(0)
 
-        # for other fingers..
-        for id in range(1, 5):
-            if self.lnList[self.tipIDs[id]][2] < self.lnList[self.tipIDs[id] - 2][2]:
-                fingers.append(1)
-            else:
-                fingers.append(0)
-        return fingers
+            # for other fingers..
+            for id in range(1, 5):
+                if self.lnList[self.tipIDs[id]][2] < self.lnList[self.tipIDs[id] - 2][2]:
+                    fingers.append(1)
+                else:
+                    fingers.append(0)
+            return fingers
+        return [None]
 
     def findDistance(self, p1, p2, img, draw=True):
         """

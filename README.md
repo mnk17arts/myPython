@@ -1,10 +1,10 @@
 # myPython
 ### my python works 
 > **OpenCV**
-* [Face Recognition Project]()
-* [Hand Tracking Project]()
-* [Virtual Paint using Hand tracking Project]()
-* [show more...]()
+* [Face Recognition Project](https://github.com/mnk17arts/myPython/tree/main/opencv/face-recognition-project)
+* [Hand Tracking Project](https://github.com/mnk17arts/myPython/tree/main/opencv/hand-tracking-module)
+* [Virtual Paint using Hand tracking Project](https://github.com/mnk17arts/myPython/tree/main/opencv/virtual-paint-project)
+* [show more...](https://github.com/mnk17arts/myPython/tree/main/opencv)
 
 > **tkinter**
 * [Simple Calculator](https://replit.com/@mnk17arts/Simple-Calculator-GUI)

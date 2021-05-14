@@ -10,9 +10,8 @@
 
 **Note**: *Maximum one face is recognised in the testing image source at a time. If anyone can modify this code to recognise more than one, they are welcome!  mailto:mnk17arts@gmail.com*
 
-> ### Screenshots of this project 👇 <br/>
-> <img height="300em" src="https://github.com/mnk17arts/myPython/blob/main/opencv/face-recognition-project/true.png?raw=true" alt="screenshot of project"> 
->  <img height="300em" src="https://github.com/mnk17arts/myPython/blob/main/opencv/face-recognition-project/false.png?raw=true" alt="screenshot of project">
+> ### A small glimpse of this project 👇 <br/>
+https://user-images.githubusercontent.com/71878747/118287966-967fad80-b4f1-11eb-896a-63f5fe286ce0.mp4
 
 ##### Other works 🎊
 ⭐ [`Hand tracking Project`](https://github.com/mnk17arts/myPython/blob/main/opencv/hand-tracking-module/README.md) 
@@ -27,3 +26,6 @@
 ⭐ [`Sample Personal Portfolio Page`](https://github.com/mnk17arts/myHtmlCssJs/tree/main/personal-portfolio-page)  
 
 ###### made with py❤️
+
+
+

@@ -13,8 +13,11 @@ fingers(open or close) and also the position or locations of the landmarks of th
 + datetime
 
 
-> #### A screenshot of this project 👇 <br/>
-> ![Screenshot (70)](https://user-images.githubusercontent.com/71878747/117543112-0fd25880-b039-11eb-9d87-ec82a11475b9.png)
+> #### A small glimpse of this project 👇 <br/>
+> https://user-images.githubusercontent.com/71878747/118363886-08b8c680-b5b4-11eb-8cf2-2d22d5d2a4af.mp4
+
+
+
 
 ##### Other works 🎊
 ⭐ [`Face Recognition Project`](https://github.com/mnk17arts/myPython/blob/main/opencv/face-recognition-project/README.md) 
@@ -28,5 +31,6 @@ fingers(open or close) and also the position or locations of the landmarks of th
 ⭐ [`Technical Documentation Page`](https://github.com/mnk17arts/myHtmlCssJs/tree/main/technical-documentation-page) 
 ⭐ [`Sample Personal Portfolio Page`](https://github.com/mnk17arts/myHtmlCssJs/tree/main/personal-portfolio-page)  
 
-###### suggestions : mailto:mnk17arts@gmail.com
+
 ###### made with py❤️
+

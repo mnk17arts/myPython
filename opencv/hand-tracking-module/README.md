@@ -31,6 +31,6 @@ fingers(open or close) and also the position or locations of the landmarks of th
 ⭐ [`Technical Documentation Page`](https://github.com/mnk17arts/myHtmlCssJs/tree/main/technical-documentation-page) 
 ⭐ [`Sample Personal Portfolio Page`](https://github.com/mnk17arts/myHtmlCssJs/tree/main/personal-portfolio-page)  
 
-
+###### suggestions : mailto:mnk17arts@gmail.com
 ###### made with py❤️
 

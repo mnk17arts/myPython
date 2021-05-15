@@ -19,8 +19,10 @@ brush and rubber size through the changing values in the respected variables.
 - if selection mode - when two fingers are up... SELECT
 - if drawing mode - index finger is up
 
-> ### Screenshot of the project.. 👇  
-[<img height="400em" src="https://user-images.githubusercontent.com/71878747/117779001-dfb6cf80-b25b-11eb-82e3-030c10c4fccb.png">](https://github.com/mnk17arts/myPython/blob/main/opencv/virtual-paint-project/virtual-paint-project.py)
+> ### A small glimpse of the project.. 👇  
+> https://user-images.githubusercontent.com/71878747/118365406-4c163380-b5ba-11eb-8b4f-124e1ffb665a.mp4
+
+
 
 
 

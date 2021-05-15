@@ -1,6 +1,6 @@
 # Finger Counter Project Using Hand Tracking - OpenCv
 
-In this project input is given through webcam. When a hand is tracked down our project gives the output of the Number
+In this project input is given through webcam. When a hand is tracked down our project gives the output, the Number
 which was shown by user's hand.
 
 > Packages :  
